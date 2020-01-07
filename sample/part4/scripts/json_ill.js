@@ -1,0 +1,1 @@
+console.log(JSON.stringify('\uD800\uD801\uD802'));
